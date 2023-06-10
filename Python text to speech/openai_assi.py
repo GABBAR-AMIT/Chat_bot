@@ -70,3 +70,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+# need microphone the error which is giving is of hardware error microphone error
