@@ -16,7 +16,7 @@ def get_weather_forecast(location):
     # Insert your API key here
     api_key = "fe6dff6186074f0fb0c0a5e73bbc3107"
 
-    # Construct the API URL with the location and API key
+    # Construct the API URL with the location and API key, https://api.weatherbit.io
     url = f"https://api.weatherbit.io/v2.0/forecast/daily?city={location}&key={api_key}&days=7"
 
     try:
