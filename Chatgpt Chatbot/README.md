@@ -1,5 +1,5 @@
 
-# ChatBotX
+# ChatBotX 🤖 
 
 ChatBotX is a Python-based chatbot powered by OpenAI's GPT-3.5-turbo model. It allows users to ask questions and receive AI-generated responses.
 
