@@ -1,0 +1,12 @@
+Weather Forecast:
+--------------------------------------------------
+| Date                | Temperature (C) | Weather Condition     |
+--------------------------------------------------
+| 2023-06-13 |      37.1       |     Broken clouds      |
+| 2023-06-14 |      37.9       |     Broken clouds      |
+| 2023-06-15 |      38.2       |     Broken clouds      |
+| 2023-06-16 |      39.4       |    Scattered clouds    |
+| 2023-06-17 |      39.8       |    Scattered clouds    |
+| 2023-06-18 |      39.3       |       Few clouds       |
+| 2023-06-19 |      38.2       |    Scattered clouds    |
+--------------------------------------------------
