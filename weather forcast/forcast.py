@@ -5,7 +5,7 @@ import datetime
 
 def get_weather_forecast(location):
     """
-    Retrieves the weather forecast for the next 7 days from the current date.
+    Retrieves the weather forecast for the next 7 days from the current date..
 
     Args:
         location (str): The location for which the forecast is requested.
